@@ -23,6 +23,7 @@ mkdir $SCRIPT/$1
 mkdir $SCRIPT/$1/obj
 mkdir $SCRIPT/$1/include
 cp $SCRIPT/build.sh $1
+chmod +x $SCRIPT/build.sh
 
 echo ""
 echo "==================================="
