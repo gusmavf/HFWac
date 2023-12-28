@@ -2,6 +2,9 @@
 # dentro de la carpeta se copia el archivo build.sh
 # que se encuentra dentro de una carpeta especificada
 
+# la variable SCRIPT la uso para indicar donde esta el 
+# script que se utiliza para compilar, o sea el "build.sh"
+
 SCRIPT=~/workshop
 
 clear
