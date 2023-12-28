@@ -1,4 +1,5 @@
 # ./build.sh - (c) FiveTech Software 2007-2023
+# crear un archivo con el nombre build.sh y entro pegar todas estas lineas
 
 # declaro las rutas necesarias
 HARBOUR=~/harbour
